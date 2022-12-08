@@ -1,6 +1,6 @@
 # wago
 
-A new Flutter project.
+This application makes you familiar with the developments of famous films, series and television programs around the world and gives you a simplified description of the events that take place in it, and the entire update comes through an api that changes with changing trends, which in turn are constantly changing
 
 ## Getting Started
 
